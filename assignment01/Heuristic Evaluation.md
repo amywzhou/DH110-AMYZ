@@ -35,7 +35,7 @@ The following rating scale can be used to evaluate the severity of usability iss
 ## **Critique 1: Institute for Sustainable Communities at [sustain.org](sustain.org)**
 
 <p align="center">
-  <img src="./sustain.png" alt="Sustain Homepage" width = "500px"/> <img src="./sustain2.png" alt="Sustain Homepage" width = "500px"/>
+  <img src="./sustain.png" alt="Sustain Homepage" width = "500px"/> <img src="./sustain2.png" alt="Sustain dropdown" width = "500px"/>
 </p>
 
 _Site Background_: Sustain.org is the website for the Institute for Sustainable Communities (ISC). The goal of ISC is to provide resources to people within the community that is being transformed; rather than act as a third party, the ISC allows local community members to take action. The ISC provides training, soluations, and resources to leaders of change. Their site contains more information about their work, as well as blogs and podcasts about sustainable communities.  
@@ -62,7 +62,7 @@ _Post Evaluation_: There are some oversights that can make the user experience v
 ## **Critique 2: UN Environmental Programme at [unep.org](unep.org)**
 
 <p align="center">
-  <img src="./unep.png" alt="Sustain Homepage" width = "500px"/> <img src="./unep3.png" alt="Sustain Homepage" width = "500px"/>
+  <img src="./unep.png" alt="UNEP Homepage" width = "500px"/> <img src="./unep3.png" alt="UNEP SDG" width = "500px"/>
 </p>
 
 _Site Background_: The United Nations Environment Programme (UNEP) sets the global environmental agenda and promotes the implmentation of sustainable practices. UNEP works with many different countries, aiding in environmental agreements as well as research. 
