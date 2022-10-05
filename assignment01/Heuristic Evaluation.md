@@ -26,7 +26,7 @@ In this project, I hope to create a site that allows users to know how they, on 
 The following rating scale can be used to evaluate the severity of usability issues:
 | Rating | Description |
 |---|---|
-| 1 | Cosmetic problem |
+| 1 | Cosmetic problem; fix if there is time |
 | 2 | Minor usability problem; low priority|
 | 3 | Major usability problem; high priority |
 
@@ -62,7 +62,7 @@ _Post Evaluation_: There are some oversights that can make the user experience v
 ## **Critique 2: UN Environmental Programme at [unep.org](unep.org)**
 
 <p align="center">
-  <img src="./unep.png" alt="UNEP Homepage" width = "500px"/> <img src="./unep3.png" alt="UNEP SDG" width = "500px"/>
+  <img src="./unep.png" alt="UNEP Homepage" width = "500px"/> <img src="./uep3.png" alt="UNEP SDG" width = "500px"/>
 </p>
 
 _Site Background_: The United Nations Environment Programme (UNEP) sets the global environmental agenda and promotes the implmentation of sustainable practices. UNEP works with many different countries, aiding in environmental agreements as well as research. 
