@@ -1,7 +1,7 @@
 ## DH110 Fall 2022 | Amy Zhou | Topic: Sustainable Cities and Communities
 # Assignment 1: Heuristic Evaluation
 
-In this project, I hope to create a site that allows users to know how they, on an individual level, can contribute to building sustainable cities and communities. When the goal sounds so broad and daunting, it is easy for the individual to feel that they have nothing to contribute to the goal. I hope to create a friendly site that allows 
+In this project, I hope to create a site that allows users to know how they, on an individual level, can contribute to building sustainable cities and communities. When the goal sounds so broad and daunting, it is easy for the individual to feel that they have nothing to contribute to the goal. I hope to create a friendly site that allows the every-day citizen to feel like they can make an impact. Whether it be donating to a charity or shopping locally, there is something for everyone. 
 
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
