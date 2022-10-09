@@ -12,7 +12,7 @@ When completing my heuristic evaluation for sustain.org, I found some issues tha
 | 3 | User Control and Freedom | Give users the options to exit, undo, and redo. |
 | 5 | Error Prevention | Eliminate or minimize errors to prevent user frustration. |
 
-During my heuristic evaluation[^1], I found the following errors that I would like to obtain user insight on:
+During my heuristic evaluation[^1], I found the following issues that I would like to obtain user insight on:
 
 * _Visibilility of System Status_ : The navigation bar has drop down menus that do not stay pinned; they only appear when the user hovers over the parent button. Evaluate whether or not the drop down menu affects the user's navigation of the site.
 * _User Control and Freedom_: The "Donate" button redirects the user to a new link in a new tab. Obtain insight on how the user reacts to this new tab opening without warning.
