@@ -44,16 +44,22 @@ The **transcription** of the interview can be found [here](link).
 
 ### Here are some interesting quotes and insights from the interview:
 
-**:one: **
+**:one:**
 > .
-**:two: **
+
+**:two:**
 > .
-**:three: **
+
+**:three:**
 > .
-**:four: **
->.
-**:five: **
->.
+
+**:four: Peer judgement has a large impact on the extent to which sustainable practices are adopted**
+> (53:46) "...that encourages me, and to see other people also like switching over to reusable straws. I think that also encourages me to see other people doing it, knowing that, like I'm not the only one doing it. And I think that leads me to what discourages me. If I'm like taking all these steps to minimize ways that to use reusable items, and no one else is doing it. Sometimes I feel discouraged, because you know, I'm the only one, it feels like. I'm the only one like, What am I? How is my lifestyle going to make an impact if I'm the only one out of all my friends who are doing this?"
+
+**:five: Social media can be a powerful mobilizing tool**
+> (24:40) "Probably if I was on Instagram and someone started talking about [an environmental issue] , and i'd be likely I'm gonna learn more about that. 
+
+> (57:57) "Everything now is social media. So if there's a way to somehow incorporate like such actions into social media. So you can see, like what your friends are up to. Maybe we like your friend at a beach clean up like if There's an app to see how, ah, how we were contributing to minimizing, waste, or working towards sustainability, and others would feel more inspired..."
 
 
 ## Reflection
