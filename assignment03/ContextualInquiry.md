@@ -26,7 +26,17 @@
 > Users would usually use a search engine to look up how they can contribute. They might have to navigate several websites in order to find an action item they can do that is relevant to themselves. 
 
 ### :white_check_mark: Step 3: Pick observation method(s)
+ 
+I used a mix of observation methods.
 
+**Passive Participant Observation**
+> Before asking for the user's participation in the contextual inquiry, I shadowed the user and took field notes without identifying myself as a researcher. I observed her activities as she browsed the internet on a weekday evening. The field notes can be found below. 
+ 
+ **Active Participant Observation**
+> During the contextual inquiry, I conducted an interview, which is a form of active participant observation. During the interview, I learned about the participant's activities, habits, interests, and goals. 
+
+**Overt-Passive Partcipant Observation** 
+> During the activities section of the contextual inquiry, I made myself known as a researcher but did not play a part in the activities. (Or tried not to)
 
 
 
@@ -34,29 +44,35 @@
 
 **1. Contextual Inquiry Guide**
 
-Please find my **script** for this interview [here](link), with an introduction, goals, and contextual questions.
+Please find my **script** for this interview [here](https://docs.google.com/document/d/1j-eUm0TE6vCstzVb4H-1J0t0NqqY73i0-2IMFmeJ5k0/edit?usp=sharing), with an introduction, goals, and contextual questions.
 
 **2. User Data**
 
-Please find the **recording** of the interview [here](link).
+The recording with transcript can be found [here](https://ucla.zoom.us/rec/share/8liR_Bb752vyna_aHrWOqhXl-WPqI8r2l2QL0tQoKG3bq9obFT4LD3JrD_9cqwFD.L0p8YfnmAZvvzZLG?startTime=1665958094000).
 
-The **transcription** of the interview can be found [here](link).
+The recording without transcript can be found [here](https://drive.google.com/file/d/1KwlZX3MrsQ6EHAR84gy-8lkaaso8L2rQ/view?usp=sharing).
+
+The transcript without recording can be found [here](https://docs.google.com/document/d/1ZyVlE5pufr2IK4RmrEJHKaIb74-s5oDHOew_EMHQeKI/edit?usp=sharing).
+
+The field notes of my _passive participant observation_ can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing).
+
+The field notes of my _contextual inquiry_ can be found [here](https://drive.google.com/file/d/1SycK6h2po-IlrzE8SmGSBHZczeTHgnk9/view?usp=sharing).
+
 
 ### Here are some interesting quotes and insights from the interview:
 
-**:one:**
-> .
+**:one: Not every sustainable action is applicable to everyone, but there is at least one task that an individual can complete**
+> (22:33) "Anyone, everyone would be able to pick something from here to work towards the goal."
+
+> (51:55) "..there may be some things that others don't have the capacity for. But I think there will always be at least one thing that someone could do to contribute..."
 
 **:two:**
 > .
 
-**:three:**
-> .
-
-**:four: Peer judgement has a large impact on the extent to which sustainable practices are adopted**
+**:three: Peer judgement has a large impact on the extent to which sustainable practices are adopted**
 > (53:46) "...that encourages me, and to see other people also like switching over to reusable straws. I think that also encourages me to see other people doing it, knowing that, like I'm not the only one doing it. And I think that leads me to what discourages me. If I'm like taking all these steps to minimize ways that to use reusable items, and no one else is doing it. Sometimes I feel discouraged, because you know, I'm the only one, it feels like. I'm the only one like, What am I? How is my lifestyle going to make an impact if I'm the only one out of all my friends who are doing this?"
 
-**:five: Social media can be a powerful mobilizing tool**
+**:four: Social media can be a powerful mobilizing tool**
 > (24:40) "Probably if I was on Instagram and someone started talking about [an environmental issue] , and i'd be likely I'm gonna learn more about that. 
 
 > (57:57) "Everything now is social media. So if there's a way to somehow incorporate like such actions into social media. So you can see, like what your friends are up to. Maybe we like your friend at a beach clean up like if There's an app to see how, ah, how we were contributing to minimizing, waste, or working towards sustainability, and others would feel more inspired..."
