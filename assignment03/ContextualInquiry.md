@@ -56,7 +56,7 @@ I used a mix of observation methods.
 
 > The field notes of my _passive participant observation_ can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing).
 
-> The field notes of my _contextual inquiry_ can be found [here](https://drive.google.com/file/d/1SycK6h2po-IlrzE8SmGSBHZczeTHgnk9/view?usp=sharing).
+> The field notes of my _contextual inquiry_ can be found [here](https://drive.google.com/file/d/1SycK6h2po-IlrzE8SmGSBHZczeTHgnk9/view?usp=sharing). The participant denied permission to post images of her home on the web.
 
 
 ### Here are some interesting quotes and insights from the interview:
