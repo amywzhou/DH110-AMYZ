@@ -44,19 +44,19 @@ I used a mix of observation methods.
 
 **1. Contextual Inquiry Guide**
 
-Please find my **script** for this interview [here](https://docs.google.com/document/d/1j-eUm0TE6vCstzVb4H-1J0t0NqqY73i0-2IMFmeJ5k0/edit?usp=sharing), with an introduction, goals, and contextual questions.
+> Please find my **script** for this interview [here](https://docs.google.com/document/d/1j-eUm0TE6vCstzVb4H-1J0t0NqqY73i0-2IMFmeJ5k0/edit?usp=sharing), with an introduction, goals, and contextual questions.
 
 **2. User Data**
 
-The recording with transcript can be found [here](https://ucla.zoom.us/rec/share/8liR_Bb752vyna_aHrWOqhXl-WPqI8r2l2QL0tQoKG3bq9obFT4LD3JrD_9cqwFD.L0p8YfnmAZvvzZLG?startTime=1665958094000).
+> The recording with transcript can be found [here](https://ucla.zoom.us/rec/share/8liR_Bb752vyna_aHrWOqhXl-WPqI8r2l2QL0tQoKG3bq9obFT4LD3JrD_9cqwFD.L0p8YfnmAZvvzZLG?startTime=1665958094000).
 
-The recording without transcript can be found [here](https://drive.google.com/file/d/1KwlZX3MrsQ6EHAR84gy-8lkaaso8L2rQ/view?usp=sharing).
+> The recording without transcript can be found [here](https://drive.google.com/file/d/1KwlZX3MrsQ6EHAR84gy-8lkaaso8L2rQ/view?usp=sharing).
 
-The transcript without recording can be found [here](https://docs.google.com/document/d/1ZyVlE5pufr2IK4RmrEJHKaIb74-s5oDHOew_EMHQeKI/edit?usp=sharing).
+> The transcript without recording can be found [here](https://docs.google.com/document/d/1ZyVlE5pufr2IK4RmrEJHKaIb74-s5oDHOew_EMHQeKI/edit?usp=sharing).
 
-The field notes of my _passive participant observation_ can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing).
+> The field notes of my _passive participant observation_ can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing).
 
-The field notes of my _contextual inquiry_ can be found [here](https://drive.google.com/file/d/1SycK6h2po-IlrzE8SmGSBHZczeTHgnk9/view?usp=sharing).
+> The field notes of my _contextual inquiry_ can be found [here](https://drive.google.com/file/d/1SycK6h2po-IlrzE8SmGSBHZczeTHgnk9/view?usp=sharing).
 
 
 ### Here are some interesting quotes and insights from the interview:
