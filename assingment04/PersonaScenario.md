@@ -1,4 +1,4 @@
-# DH110 Assignment02 - Pilot Usability Test 
+# DH110 Assignment04 - Persona and Scenario
 ### Amy Zhou || DH 110 Fall 2022
 
 ## 📚 Purpose of UX Storytelling
