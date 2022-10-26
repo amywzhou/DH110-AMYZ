@@ -14,7 +14,7 @@
 # 👤 Personas + Empathy Maps
 
 #### Persona 1: Stephany Jones, HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
-![Stephany's Persona](https://user-images.githubusercontent.com/92239472/197910116-315401b1-e6b4-4440-b09c-ffcf4074a949.png)
+![Stephany's Persona](https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png)
 ![Stephany's Empathy Map](https://user-images.githubusercontent.com/92239472/197910151-cf2aec60-1f1c-4ee6-8007-6144dfc3461f.png)
 
 #### Persona 2: James Lee, Personal Chef and Father in Portland, Oregon
