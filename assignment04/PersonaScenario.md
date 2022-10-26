@@ -22,7 +22,7 @@
 ![James' Empathy Map](https://user-images.githubusercontent.com/92239472/197910463-3bc95692-7c27-4a58-a054-6791e3ab1b3b.png)
 
 
-# 📍 Journey
+# 📍 Scenario + Journey
 
 #### Stephany's Journey
 Why Stephany uses the app:
