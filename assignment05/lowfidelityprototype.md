@@ -24,7 +24,7 @@ I developed 2 personas to understand the perspective of target users of the feat
 > James Lee is a private chef and the father of a six year old son. James has very little free time, but wants to start contributing to the sustaiable communities cause becasue he is aware that his profession as a personal chef has a direct impact on the issue and he wants to make sure the world is habitable when his son is older. James is looking for a tool that will allow him to 1) find information in a centralized place, 2) find action items that are applicable to his available resources, and 3) be habitual in his sustainable efforts. 
 
 #### Features/Purpose of Low Fidelity Prototype
-This low fidelity prototype should be able to accomplish the tasks for both personas, in order to cover a range of needs and technical skills.
+The purpose of a low fidelity prototype is to create an early rendition of the project to see how feasible the anticipated design is. The prototype will provide insight on the usability of the features and the validity of the concepts being added. My particular low fidelity prototype should be able to accomplish the tasks for both personas, in order to show how easily my feature designs are able to be used.  
 
 **Task 1: Social Platform** (Stephany's usage scenario)
 > This task is a series of mini-tasks that serve the greater purpose of building a social network. 
