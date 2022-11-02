@@ -90,7 +90,22 @@ The pink notes are notes made by the researcher (myself) during the wireflow tes
 ![WF Task 2_Page_1](https://user-images.githubusercontent.com/92239472/199402010-1ac88ee9-d8b0-4cd8-99a4-7d39cae74730.png)
 ![WF Task 2_Page_2](https://user-images.githubusercontent.com/92239472/199402020-b1e294f3-e5fa-4b34-b642-ecf4222383ea.png)
 
-### Updated Wireframes and Wireflow
+
+
+## Summary and Reflection 
+The wire flow testing process was very insightful and resulted in several changes in my prototype. As the designer of the product, every interaction appears intuitive to me, so I was surprised when the wire flow testing did not go as smoothly as I had anticipated. The user was not able to complete some of the tasks I had prepared and grew frustrated at features that I believed made sense. Although the wireflow testing itself was not smooth, the test definitely served its purpose by allowing me to witness another person’s thought process and emotional responses to my design. Since the added features must be easily used by a diverse range of users, it was very helpful to get a glimpse into even one other person’s behavior. Having another person test the wire flow identified issues that may not have bothered me, but may have affected other users.
+
+Upon analysis, the user’s confusions can be traced to (1) uncommonly used symbols for navigation, such as “>” and “<“, (2) lack of clarity on buttons such as absent or inconsistent  labels, and (2) size of interactive elements. A thorough analysis of the tester’s comments/reactions and my edits to the prototype are made below.
+
+| Tester Reaction | Prototype Edit |
+|---|---|
+| Tester is frustrated that creating a post is not veryaccessible for intuitive.  | Add a “Create Post” button to the community page and rename the “Add Activity” button on the profile page to “Add Post” for consistency.| 
+| Tester is uncertain what will happen after adding a friend. | Design the “add” and “invite” buttons to provide feedback on whether or not the action is successful.| 
+| Tester cannot find detail page of a topic on the information page. | Change the “>” button to be more clear; the new button says “Learn more” and is in button outline. |
+| Tester did not attempt to change criteria in filtering feature. | Enlarge the filtering features and provide explicit instructions on how to use them.| 
+| Tester complained about lack of back/exit options. | Change the “<“ arrow to the more commonly seen “<— “ symbol for back/exit options. |
+
+## Updated Wireframes and Wireflow
 Based on the wireflow test, the prototype needed to be adjusted for ease of use. The updated features are highlighted in green and include:
 - Creating a button to create a post on the community page
 - Providing user feedback on whether the action was successful on the add/invite page
@@ -103,6 +118,3 @@ Based on the wireflow test, the prototype needed to be adjusted for ease of use.
 
 ![Updated wire flow final_Page_1](https://user-images.githubusercontent.com/92239472/199412192-1eed98ff-cc21-4fe5-a8c9-ab7c9e4e2ca4.png)
 ![Updated wire flow final_Page_2](https://user-images.githubusercontent.com/92239472/199412205-0e11f729-f6a0-48de-a6c5-848764f15b4e.png)
-
-
-### Summary and Reflection 
