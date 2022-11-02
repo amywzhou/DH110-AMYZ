@@ -26,12 +26,12 @@ I developed 2 personas to understand the perspective of target users of the feat
 #### Features/Purpose of Low Fidelity Prototype
 This low fidelity prototype should be able to accomplish the tasks for both personas, in order to cover a range of needs and technical skills.
 
-**Task 1: Social Platform ** (Stephany's usage scenario)
+**Task 1: Social Platform** (Stephany's usage scenario)
 > This task is a series of mini-tasks that serve the greater purpose of building a social network. 
-> 1. Add AND invite a friend.
+> 1. Add or invite a friend.
 > 2. Post an activity to the feed.
 
-**Task 2: Personal Enrichment ** (James' usage scenario)
+**Task 2: Personal Enrichment** (James' usage scenario)
 > This task is a series of mini-tasks that serve the greater purpose of personal enrichment. 
 > 1. Read more about a topic.
 > 2. Find applicable action items based on criteria.
@@ -53,3 +53,56 @@ PDF Version: [Wire flow.pdf](https://github.com/amywzhou/DH110-AMYZ/files/989695
 
 ![Wire flow_Page_1](https://user-images.githubusercontent.com/92239472/198904275-2bf2ed0e-39c7-4375-87e0-cb65bc5018ed.png)
 ![Wire flow_Page_2](https://user-images.githubusercontent.com/92239472/198904278-29bf3b29-b2ad-47ff-b136-e4c02cca8396.png)
+
+### Documentation
+Photos were taken at three stages per task for documentation purposes. Having photos was very benefical when revising the prototype as it provided records of what features needed to be changed. 
+
+#### Task 1 Documentation
+Stage 1 | Stage 2 | Stage 3
+:-------------------------:|:-------------------------: |:-------------------------:
+![image](https://user-images.githubusercontent.com/92239472/199406736-6dd4eda4-6b3f-4bcf-b5b9-f910798f3236.png) | ![image](https://user-images.githubusercontent.com/92239472/199406818-0ce449de-7b53-4c14-8099-5a7fb5bcee0d.png) | ![image](https://user-images.githubusercontent.com/92239472/199406867-ed155311-8dd3-4708-8413-3e0d946d33a2.png)
+
+
+#### Task 2 Documentation
+Stage 1 | Stage 2 | Stage 3
+:-------------------------:|:-------------------------: |:-------------------------:
+![image](https://user-images.githubusercontent.com/92239472/199405603-e1c12880-53be-4df1-bc1f-2e9ec4241a31.png) |![image](https://user-images.githubusercontent.com/92239472/199405665-e7317c59-1299-4ea7-bcf1-067155631aca.png) | ![image](https://user-images.githubusercontent.com/92239472/199405715-93459f02-ac9f-44b0-b235-8aa55dac5ce2.png)
+
+
+
+### User Insights
+
+Task 1 [Task 1 PDF](https://github.com/amywzhou/DH110-AMYZ/files/9916452/WF.task.1.pdf)
+
+The yellow highlighter indicates the flow taken by the user when completing task 1. The user was able to complete both tasks. To add/invite a friend, the user first navigated to the "take action" page before going to the "community" page. Once at the community page, the user was easily able to add a friend but expressed confusion because they did not know what would happen after clicking "add." The user assumed that they would be navigated back to the "community" page. The user next attempted to add a post but was initially confused about where to navigate to find that feature. They eventually went to the profile page and clicked “Posts,” even though it was intended to be a title and not a button. When the user arrived at the  “add activity” wireframe, they were able to quickly complete the interactions required to publish a post. 
+
+The pink notes are notes made by the researcher (myself) during the wireflow test. 
+
+![WF task 1_Page_1](https://user-images.githubusercontent.com/92239472/199401994-e058a9fd-44ee-449d-a1e3-e0c891500672.png)
+![WF task 1_Page_2](https://user-images.githubusercontent.com/92239472/199402034-98b639b9-9d98-437f-8b85-6930bced4ded.png)
+
+Task 2 [Task 2 PDF](https://github.com/amywzhou/DH110-AMYZ/files/9916453/WF.Task.2.pdf)
+
+The orange highlighter indicates the flow taken by the user when completing task 2. The user was only able to partially the task. The user was confused about where to find more details about a topic and therefore first navigated to the “take action” page, where they were able to find tasks but did not interact with the filtering features on the top bar. The user then tried again to access the information details page, and realized that they had to click the arrow on the information page. The user was frustrated that the arrow was not very obvious. From the details page, they navigated to the profile page, where they were able to easily view saved and completed tasks. However, the user complained about the lack of back/exit options as they did not recognize the symbol used by the design.
+
+The pink notes are notes made by the researcher (myself) during the wireflow test.
+
+![WF Task 2_Page_1](https://user-images.githubusercontent.com/92239472/199402010-1ac88ee9-d8b0-4cd8-99a4-7d39cae74730.png)
+![WF Task 2_Page_2](https://user-images.githubusercontent.com/92239472/199402020-b1e294f3-e5fa-4b34-b642-ecf4222383ea.png)
+
+### Updated Wireframes and Wireflow
+Based on the wireflow test, the prototype needed to be adjusted for ease of use. The updated features are highlighted in green and include:
+- Creating a button to create a post on the community page
+- Providing user feedback on whether the action was successful on the add/invite page
+- Renaming the "Add activity" button to "Add post" for clarity and consistency
+- Adding a "learn more" button on the information page to clarify how to access topic details
+- Increasing the size of the criteria filtering features and adding instructions next to each feature
+- Updating the back arrow to a more common design so users know they can return to a previous page
+
+[Updated wire flow PDF](https://github.com/amywzhou/DH110-AMYZ/files/9916801/Updated.wire.flow.final.pdf)
+
+![Updated wire flow final_Page_1](https://user-images.githubusercontent.com/92239472/199412192-1eed98ff-cc21-4fe5-a8c9-ab7c9e4e2ca4.png)
+![Updated wire flow final_Page_2](https://user-images.githubusercontent.com/92239472/199412205-0e11f729-f6a0-48de-a6c5-848764f15b4e.png)
+
+
+### Summary and Reflection 
