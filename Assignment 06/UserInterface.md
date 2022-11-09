@@ -87,3 +87,8 @@ Figma Link: https://www.figma.com/file/ZoV8NeADHrNYfUVerVGq4H/Assignment-6?node-
 - Light Mode Highlight: F8C8BF
 - Dark Mode Higlight: 68524E
 
+### Margins, Gutters, Grids
+- 5 row, 4 column system with 10px grid
+- Gutters 20px horizontally, 10px vertically
+- Margins 10px
+
