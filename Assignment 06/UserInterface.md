@@ -1,23 +1,20 @@
 ## Project Description
 
-- summary
-- process
-- purpose of interface design
-- url to assignment 5
+This project aims to add features to the existing site Sustain.org in order to provide a better resource for supporting the goal Sustainable Cities and Communities. Specifically, this project adds social features and informative features based off the findings of user reserach and peronsa+usage scenarios. The features include: (1) a community page for those seeking a like-minded peers, (2) a feature to post about one's own sustainable acitiity, (3) an option to invite friends to join the cause, (4) a centralized location to find information, and (5) a tool to find personalized action items based on one's resources. Features 1-3 may be used by someone similar to the persona of Stephany Jones, and features 4-5 may be used someone similar to the persona of James Lee; both personas can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md). Based on these features, a set of wireframes was developed, along with a low fidelity prototype, in order to test the flow of the features; the wireframes can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment05/lowfidelityprototype.md). Below is a first rendition of the user interface, which is an important element to consider since UI can make the first impression on users. For example, if a user views a site and it looks cheap or very outdated, then they may navigate away from the site without trying to use it at all. Thus, it is important to use good UI principles to keep users engaged and reduce frustrations. The UI below attempts to be friendly while maintaining a sense of seriousness. Impression tests will indicate whether or not it is successful. 
 
 ## Screen Design
 
 ### Spacing and Layout
-![Screen Shot 2022-11-08 at 8 25 04 PM](https://user-images.githubusercontent.com/92239472/200741897-3235e8b2-c192-4591-8be8-3ae850f7823a.png)
+![Grids](https://user-images.githubusercontent.com/92239472/200741897-3235e8b2-c192-4591-8be8-3ae850f7823a.png)
 
 ### Typographic Variations
-![Screen Shot 2022-11-08 at 8 25 15 PM](https://user-images.githubusercontent.com/92239472/200741906-6e859c17-f207-4c6b-bb44-c3febce91fc2.png)
+![Fonts](https://user-images.githubusercontent.com/92239472/200741906-6e859c17-f207-4c6b-bb44-c3febce91fc2.png)
 
 ### Shape Variations
-![Screen Shot 2022-11-08 at 8 25 28 PM](https://user-images.githubusercontent.com/92239472/200741919-c1ffebb0-c520-4a93-8a7d-66c2364f7daa.png)
+![Shapes](https://user-images.githubusercontent.com/92239472/200741919-c1ffebb0-c520-4a93-8a7d-66c2364f7daa.png)
 
 ### Color Schemes
-![Screen Shot 2022-11-08 at 10 32 55 PM](https://user-images.githubusercontent.com/92239472/200756568-c727c8d5-1ce4-4c99-9093-6648d434dc63.png)
+![Colors](https://user-images.githubusercontent.com/92239472/200788165-e53c7f49-1e4e-4b84-91cd-9a713b66e5db.png)
 
 ## Impression Test
 In my first impression test, the user had the following comments:
@@ -65,7 +62,10 @@ Summary: Both users found the bright orange color to be attention grabbing and v
 Figma Link: https://www.figma.com/file/ZoV8NeADHrNYfUVerVGq4H/Assignment-6?node-id=0%3A1 
 
 ![Screen Shot 2022-11-08 at 11 53 48 PM](https://user-images.githubusercontent.com/92239472/200770848-be34972c-621c-42b2-a7ab-75047e37dabf.png)
-![colorkit](https://user-images.githubusercontent.com/92239472/200780046-f992ec36-dc09-492e-9095-7ae016d2cc6e.png)
+
+Color Scheme
+![colorkit](https://user-images.githubusercontent.com/92239472/200787206-f6e9d73f-43f6-4f90-853f-36de661037a7.png)
+
 
 ### Margins, Gutters, Grids
 - 5 row, 4 column system with 10px grid
