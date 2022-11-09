@@ -60,8 +60,8 @@ Summary: Both users found the bright orange color to be attention grabbing and v
 
 ## Design System 
 Figma Link: https://www.figma.com/file/ZoV8NeADHrNYfUVerVGq4H/Assignment-6?node-id=0%3A1 
+![Screen Shot 2022-11-09 at 1 39 38 AM](https://user-images.githubusercontent.com/92239472/200795510-1448fac1-5947-4d69-8d55-6ffe25022c1d.png)
 
-![Screen Shot 2022-11-08 at 11 53 48 PM](https://user-images.githubusercontent.com/92239472/200770848-be34972c-621c-42b2-a7ab-75047e37dabf.png)
 
 Color Scheme
 ![colorkit](https://user-images.githubusercontent.com/92239472/200787206-f6e9d73f-43f6-4f90-853f-36de661037a7.png)
