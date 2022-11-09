@@ -35,13 +35,15 @@ I wanted more data, so I conducted another impression test, The user did not wan
 
 >(1) "I saw lots of text and some sort of point system. I wasn't sure what the "//" notation indicated. "
 >
->(2) "The dark mode is easier to read tha nthe light mode. However, the orange shaded box doesn't match the theme very well."
+>(2) "The dark mode is easier to read than the light mode. However, the orange shaded box doesn't match the theme very well."
 >
 >(3) "The bottom bar was very bright and easy to read."
 >
 >(4) "It didn't look overly formal or professional."
 >
 >(5) "The colors of the app looked good."
+
+Summary: Both users found the bright orange color to be attention grabbing and vividly recalled the footer/navigation bar. The users also noticed that there was a lot of text in different sizes, separated into sections. The first user did not comment on the appearance of the app, but the second user described the app as "not too formal or professional." The second user also expressed a preference for the dark mode variation, though appeared to enjoy the color scheme of both. (Analysis of Impression Test in last section)
 
 ## Accessibility Test
 ### Header and Footer
@@ -63,7 +65,12 @@ I wanted more data, so I conducted another impression test, The user did not wan
 Figma Link: https://www.figma.com/file/ZoV8NeADHrNYfUVerVGq4H/Assignment-6?node-id=0%3A1 
 
 ![Screen Shot 2022-11-08 at 11 53 48 PM](https://user-images.githubusercontent.com/92239472/200770848-be34972c-621c-42b2-a7ab-75047e37dabf.png)
+![colorkit](https://user-images.githubusercontent.com/92239472/200780046-f992ec36-dc09-492e-9095-7ae016d2cc6e.png)
 
+### Margins, Gutters, Grids
+- 5 row, 4 column system with 10px grid
+- Gutters 20px horizontally, 10px vertically
+- Margins 10px
 
 ### Header/Footer
 - Background Color: E22A00
@@ -87,8 +94,26 @@ Figma Link: https://www.figma.com/file/ZoV8NeADHrNYfUVerVGq4H/Assignment-6?node-
 - Light Mode Highlight: F8C8BF
 - Dark Mode Higlight: 68524E
 
-### Margins, Gutters, Grids
-- 5 row, 4 column system with 10px grid
-- Gutters 20px horizontally, 10px vertically
-- Margins 10px
 
+## Decision Making Process and Future Considerations 
+### Spacing and Layout
+
+I chose to have 5 rows in my grid because I wanted to have a header, a section for criteria, and ~2-3 tasks with a footer. I aligned each element to the top of the separated row and included a 20px gutter to provide clarity as to when each new section started. I chose to have 4 columns because there are four elements in the navigation bar, and I wanted to make sure they were evenly spaced out. I used 10px gutters since I knew the navigation symbols would not be that wide anyway. I used 10px margins all around for ease of readability and to make the interface feel less overwhelming/crowded. I used a 10px x 10px grid to help better align my elements and provide consistent indents to texts and components, such as in the Criteria shaded region. 
+
+### Typographic Variations 
+ I tested three fonts: (1) Jua, which is rounded and very informal; (2) Josefin Sans, which is more formal than Jua but not strictly professional, and (3) Volkhov, which has serifs an is much more formal. I immediately decided against Volkhov because the professional feeling could make the user feel intimidated by the tasks ahead. I took longer to choose between Jua and Josefin, but ultimately decided that on Josefin because I wanted to maintain a bit of seriousness. Although I want the app to feel friendly, sustainable communities is still a large concern that needs to be addressed seriously. 
+
+### Shape Variations 
+I tested three button shapes: (1) rounded at radius 60px, (2) rectangle with sharp corners, and (3) diagonally opposite rounded corners at 45px. I disliked the rectangle option because it felt too aggressive and considered options 1 and 3. I liked that option three almost had the shape of the leaf, which would be fitting for this project, but grew concerned that users would not be able to recognize the shape as a button. Therefore, I chose option 1 for ease of recognition and friendliness.
+
+### Color Scheme
+I chose the color scheme to match the original site of sustain.org. I used Adobe Color to analyze the colors used on the site and utilized them in my design. Unfortunately	, when I ran the accessibility color contrast test, the colors did not pass! Thus, I used the same theme of colors but made the orange slightly darker and changed the font from off-white to white. Only then did the colors pass the accessibility test. I maintained the site’s original off-white and grey colors as background and text colors for both light and dark modes. I did want to add that I would have preferred neutral Earthy colors, such as green and brown, rather than match the sites original colors as orange does not particularly inspire environmental activism. 
+
+Color Scheme from Adobe Color:
+![Adobe Color](https://user-images.githubusercontent.com/92239472/200785851-9742853e-95aa-414c-bd71-e9accbbb6f05.png)
+
+
+### Impression Test Reflection and Future Considerations 
+
+
+Based on the impression test, I learned that the footer and header are the most eye-catching aspects of the design. I am considering if this is a positive or negative thing, as it is important for the user know how to navigate the app, but I want them to focus on the content of the page as well. It may have been difficult for them to focus on the content because as they had stated, there is a lot of text on the page. It may be beneficial to add icons to reduce the density of text, but I don’t want to make the page too busy. The positive feedback that I received from the test was that the site did not look overly formal or professional, which was the aim of my design. I ultimately want to make users feel like this is a serious issue, but one that is approachable rather than intimidating. 
