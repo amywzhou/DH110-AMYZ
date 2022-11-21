@@ -1,4 +1,4 @@
-# sUstain starts with U 
+# sUStain with us
 
 ## Amy Zhou, DH110 UX + UI Design, 2022 Fall
 
