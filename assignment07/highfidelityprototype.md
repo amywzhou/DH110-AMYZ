@@ -35,32 +35,21 @@ The interactive prototype can be found [here](https://www.figma.com/proto/6f0U03
 |   | Reviewer 1 | Reviewer 2 |
 |---|---|---|
 |**What do you see?**| I see a log in and create account button as well as a logo | logo and login / create account options|
-|What do you think that web/app is about?|I'm not very sure, my first assumption is that it's a social platform. | unsure| 
-| What do you think you can do with this web/app?| Interact with others and make posts | make an account but unsure what for|
-|Any other comments?| I like the color scheme | after logging in its obvious that its for finding community and learning more |
+|**What do you think that web/app is about?**|I'm not very sure, my first assumption is that it's a social platform. | unsure| 
+|**What do you think you can do with this web/app?**| Interact with others and make posts | make an account but unsure what for|
+|**Any other comments?**| I like the color scheme | after logging in its obvious that its for finding community and learning more |
 
 Cognitive Walkthrough
  
 |   | Reviewer 1 | Reviewer 2 |
 |---|---|---|
-|Is there any point that the users may not understand what this screen(feedback) is about?|Since the bottom navigation bar is the main point of reference and the landing page is the information page, I think it would be good to turn it into a home icon instead of a book. The points are not really intuitive to what they do or bring to the user from the initial interaction.|no back button (to landing page), may be confusing|
-|Is there any point that the users may not recognize where to click or select?|No, the signifiers and feedback are great on this interface|n/a|
-|Is there any point that the users may feel lost and may not sure whether the progress is being made toward what they want to achieve?|I don't think so, because the feedback on certain actions is pretty clear|when the dropdown menu isnt responsive|
-|Is there any point that the users would not know what to do the next step?|For these specific tasks, no. they are straightforward|n/a|
-|Is there any point that is not clear where to return or missing back-flow of cancel or exit?|No, there are clear cancel/exit buttons|no back button (to landing page) which is confusing|
-|Is there anything inconsistent, missing, or confusing?|The points system is not very intuitive as mentioned before|n/a|
-|Any other comments?|I think adding a friends list somewhere on the profile would be nice. This could be visible to only the user.| make images into buttons so the site is more clickable. When an action is successful leading user to new page might be helpful.|
-
-
-
-
-
-
-
-
-
-
-
+|**Is there any point that the users may not understand what this screen(feedback) is about?**|Since the bottom navigation bar is the main point of reference and the landing page is the information page, I think it would be good to turn it into a home icon instead of a book. The points are not really intuitive to what they do or bring to the user from the initial interaction.|no back button (to landing page), may be confusing|
+|**Is there any point that the users may not recognize where to click or select?**|No, the signifiers and feedback are great on this interface|n/a|
+|**Is there any point that the users may feel lost and may not sure whether the progress is being made toward what they want to achieve?**|I don't think so, because the feedback on certain actions is pretty clear|when the dropdown menu isnt responsive|
+|**Is there any point that the users would not know what to do the next step?**|For these specific tasks, no. they are straightforward|n/a|
+|**Is there any point that is not clear where to return or missing back-flow of cancel or exit?**|No, there are clear cancel/exit buttons|no back button (to landing page) which is confusing|
+|**Is there anything inconsistent, missing, or confusing?**|The points system is not very intuitive as mentioned before|n/a|
+|**Any other comments?**|I think adding a friends list somewhere on the profile would be nice. This could be visible to only the user.| make images into buttons so the site is more clickable. When an action is successful leading user to new page might be helpful.|
 
 ## Reflection and Changes 
 The cognitive walkthrough will be conducted in class on Nov. 16, 2022. The reflection and changes will be updated shortly after.
