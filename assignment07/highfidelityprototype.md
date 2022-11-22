@@ -52,4 +52,11 @@ Cognitive Walkthrough
 |**Any other comments?**|I think adding a friends list somewhere on the profile would be nice. This could be visible to only the user.| make images into buttons so the site is more clickable. When an action is successful leading user to new page might be helpful.|
 
 ## Reflection and Changes 
-The cognitive walkthrough will be conducted in class on Nov. 16, 2022. The reflection and changes will be updated shortly after.
+| Problem | Change |
+|---|---|
+|Users may get confused on how to navigate back to the landing page since it is not very obvious that the landing page is the information page; lack of clear option to navigate back to landing page. | Change the book logo for information to the widely-recognized home logo so it is clear that the information page is the landing page.|
+|Dropdown responsiveness is varied. When the dropdown doesn't work, the user is unsure if progress is being made.|Troubleshoot the dropdown menu so it works as intended.|
+|Point system purpose is unclear.|Add a small info logo that, when clicked, has a pop-up explaining the point system.|
+|Friends list would be helpful.|Add a friends list.|
+|Clicking images should route somewhere on the information/landing page.|Add intereaction where clicking a photo will route to the respective topic detail page.|
+
