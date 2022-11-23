@@ -63,3 +63,9 @@ The cognitive walkthrough went relatively well. Both reviewers were able to comp
 |Point system purpose is unclear.|Add a small info logo that, when clicked, has a pop-up explaining the point system.|
 |Clicking images should route somewhere on the information/landing page.|Add intereaction where clicking a photo will route to the respective topic detail page.|
 
+### Images of Updated Elements 
+![Screen Shot 2022-11-22 at 6 45 34 PM](https://user-images.githubusercontent.com/92239472/203460312-7eedd8cb-bcfe-45b5-8a96-3c76a4ac120b.png)
+![Screen Shot 2022-11-22 at 6 43 48 PM](https://user-images.githubusercontent.com/92239472/203460304-a534a599-f4ea-40f3-bee8-ff58ff7456bf.png)
+![Screen Shot 2022-11-22 at 6 46 03 PM](https://user-images.githubusercontent.com/92239472/203460315-87806428-bb07-4c91-a0e9-f54846fea5b5.png)
+![Screen Shot 2022-11-22 at 6 45 22 PM](https://user-images.githubusercontent.com/92239472/203460310-3b25482c-2979-40d5-b10a-55750fef0019.png)
+
