@@ -28,8 +28,10 @@ The wireflow Figma file can be found [here](https://www.figma.com/file/6f0U03cVQ
 ## Interactive Prototype
 The interactive prototype can be found [here](https://www.figma.com/proto/6f0U03cVQLa9Wl2gqnvHvO/High-Fidelity-Prototype?page-id=0%3A1&node-id=2%3A2&viewport=466%2C375%2C0.12&scaling=scale-down&starting-point-node-id=2%3A2). 
 
-## Impression Test and Cognitive Walkthrough
- 
+## Cognitive Walkthrough
+
+Two reviewers completed a cognitive walkthrough to provide insight on the flow of interactions for the given tasks. The cognitive walkthrough was prefaced by a quick impression test. During the impression test, the reviewers found the color scheme enjoyable and thought that the purpose of the app was obvious after logging in. During the cognitve walkthrough,the users were able to complete the tasks with very minimal confusion. The exact comments are shown below. 
+
  Impression Test 
  
 |   | Reviewer 1 | Reviewer 2 |
@@ -52,11 +54,12 @@ Cognitive Walkthrough
 |**Any other comments?**|I think adding a friends list somewhere on the profile would be nice. This could be visible to only the user.| make images into buttons so the site is more clickable. When an action is successful leading user to new page might be helpful.|
 
 ## Reflection and Changes 
+The cognitive walkthrough went relatively well. Both reviewers were able to complete the given tasks with just a few hiccups. I didn't anticpate the issues that they had, so I was glad that the cognitive walkthrough could show me the perspective of potential users. For example, both reviewers struggled to identify that the information mation page was the landing page, despite having that tab of the navigation bar highlighted upon login.The reviewers were looking for a back button to get back to the landing page, which I didn't expect. To clarify the situation, I changed the logo fo the information page to be the home symbol. Another thing that I noticed during the cognitive walkthrough was that sometimes reviewers left comments about missing features that already existed. One reviewer suggested displaying points on the profile page, which was already a feature. I realized that to really grab the users’ attention, things must stand out, so I  added an information icon and overlay by the points to draw more attention and even provide further information. I received other helpful comments as well about the functionality of the design. I added additional interactions such as clicking images to lead to another page and troubleshooted the drop down menu since it worked for one reviewer but didn’t work for another reviewer (still unsure why).  Overall, the cognitive walkthroughs were very helpful in understanding the thought process of potential users and identify issues with the prototype. A detailed log of changes is shown below. 
+
 | Problem | Change |
 |---|---|
 |Users may get confused on how to navigate back to the landing page since it is not very obvious that the landing page is the information page; lack of clear option to navigate back to landing page. | Change the book logo for information to the widely-recognized home logo so it is clear that the information page is the landing page.|
 |Dropdown responsiveness is varied. When the dropdown doesn't work, the user is unsure if progress is being made.|Troubleshoot the dropdown menu so it works as intended.|
 |Point system purpose is unclear.|Add a small info logo that, when clicked, has a pop-up explaining the point system.|
-|Friends list would be helpful.|Add a friends list.|
 |Clicking images should route somewhere on the information/landing page.|Add intereaction where clicking a photo will route to the respective topic detail page.|
 
