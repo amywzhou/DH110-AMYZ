@@ -1,4 +1,4 @@
-# Sustain Together
+# Sustain Together: Get Informed, Find Tasks, and Motivate Peers
 
 ## Amy Zhou, DH110 UX + UI Design, 2022 Fall
 
@@ -10,6 +10,7 @@ I conducted a Heuristic Evaluation for the Institute for Sustainable Communities
 
 #### Institute for Sustainable Communities at sustain.org
 > Site background: The goal of ISC is to provide resources to people within the community that is being transformed; rather than act as a third party, the ISC allows local community members to take action. The ISC provides training, solutions, and resources to leaders of change. Their site contains more information about their work, as well as blogs and podcasts about sustainable communities.
+> 
 > Overall evaluation: The site is information and visually pleasing with many types of media to keep the user engaged. However, there seems to be some inconsistencies in the menu bar that can make the site a bit hard to navigate. Additionally, clicking the donate button redirected me to another site without warning. These oversights can make the user experience very unpleasant. The issues mostly pertain to error prevention or resolution. The average user will probably not have an issue with this site, but it may be frustrating for users on the extreme ends (most basic and most experienced).
 
 #### UN Environmental Programme at unep.org
@@ -17,7 +18,7 @@ I conducted a Heuristic Evaluation for the Institute for Sustainable Communities
 
 > Overall Evaluation: The UNEP has many other objectives, so it was somewhat difficult finding what I needed since I was researching only SDG 11 There is so much information on the site, that it is crowded. Navigation is tough, and the separate navigation bars make the website even more unclear. There is little support for errors, which is frustrating on a large site like this one. However, the search functions helped tremendously. Furthermore, the site does seem intuitive and visually pleasing.
 
-  The details of the evaluation can be found [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment01). 
+The details of the heuristic evaluation can be found [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment01). 
 
 Next, I conducted a Usability Test (UT) for sustain.org in order determine the effectiveness, efficiency, and satisfaction of using the site.  The tasks chosen for the the usability test were specifically catered to gain insight on the three areas of concern I found during my heuristic evaluation:
 - Visibilility of System Status : The navigation bar has drop down menus that do not stay pinned; they only appear when the user hovers over the parent button. Evaluate whether or not the drop down menu affects the user's navigation of the site.
@@ -26,7 +27,7 @@ Next, I conducted a Usability Test (UT) for sustain.org in order determine the e
 The participant had an overall good impression about the site, but did express some frustrations about the heuristic violations above. The UT was very helpful during my design process as the participant’s thoughts while completing the tasks, the SUS questionnaire, and PRC provided insight on how a different user may experience issues that I didn’t personally face.
 
 
-Usability test of sustain.org, the website for the Institute for Sustainable Communities[here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment02)
+The usability test of sustain.org, the website for the Institute for Sustainable Communities can be found [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment02)
 
 ### Research
 
@@ -44,7 +45,7 @@ During my user research, I conducted passive participant observation and a conte
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, after user research, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
 
-Contextual Inquiry [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment03)
+Learn more about the Contextual Inquiry and Observation [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment03)
 
 ### UX Storytelling
 
@@ -64,16 +65,16 @@ Persona + scenario [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assig
 ### Wireframes and Low-Fidelty Prototype Wireflow 
 With more insight on user perspectives and needs, I next designed a low-fidelity prototype. The low fidelity prototype serves as an early rendition of the project to see the feasibility of anticipated design. A wire flow test was conducted to provide insight on the usability of the features for the two tasks defined in UX storytelling. It was also very helpful to learn about the flow of actions that the tested followed. Based on the tester’s reactions and comments, I created changes to the original low-fidelity prototype to make the flow and features easier to understand. 
 
+Original Flow: 
 [image of original flow]
+
+Revised Flow:
 [edited flow]
 
-[Wireflow here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment05)
-
-
+Find thorough documentation of the low-fidelity prototype [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment05)
 
 ### Graphic Design Variation
-wireframes [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment05)
-UI [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment06)
+
 Following the low fidelity prototype, I designed the user interface (UI) by testing several variations of shapes, colors, and fonts. The UI is an important element of the product that can keep users engaged and reduce frustrations. I made my decisions based on my goal to make the product feel friendly, but still serious. 
 
 Spacing Considerations: 10px grid, 20px margins
@@ -90,11 +91,14 @@ Color Scheme: Inspired by the original site, modified to meet accessibility requ
 
 After finalizing my user interface, I conducted two impression tests to obtain insight about the graphical design. The testers both commented on the bright red/orange of the interface. I was initially unsure how I felt about the color, but the testers liked the bright pop of color and said it particularly suited the “take action” atmosphere of the action items page. 
 
+The UI design process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment06). 
+
 ### High-Fidelity Prototype 
 Prototype 
 
 With the low-fidelity prototype and interface design completed, I created a high-fidelity prototype on Figma. The high-fidelity prototype is able to accomplish the two set of tasks defined in UX story telling: social platform tasks and self enrichment tasks. The high-fidelity prototype allowed me to see potential flaws in my design; being able to visualize and use the product through interactions helped me make some positive changes to the design.  Next, I  conducted a cognitive walkthrough with two peers and made changes based to the prototype based on the feedback. 
-[here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment07)
+
+The High-Fidelity Prototyping process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment07).
 
 ### Evaluation and Revision History
 Product 
