@@ -46,7 +46,7 @@ During my user research, I conducted passive participant observation and a conte
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
 
-<iframe width="640" height="360" src="https://ucla.zoom.us/rec/share/8liR_Bb752vyna_aHrWOqhXl-WPqI8r2l2QL0tQoKG3bq9obFT4LD3JrD_9cqwFD.L0p8YfnmAZvvzZLG?startTime=1665958094000" title="Contextual inquiry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1KwlZX3MrsQ6EHAR84gy-8lkaaso8L2rQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Learn more about the Contextual Inquiry and Observation [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment03).
 
@@ -64,15 +64,15 @@ Below are the persona profiles and journey maps.
 **Personas** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="495px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="495px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="490px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="490px"/>
 </p>
 
 **Journey Maps** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="495px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="495px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="490px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="490px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found[here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
