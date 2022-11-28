@@ -6,16 +6,12 @@
 As the human population grows, sustainable communities and cities are becoming increasingly important to reduce emissions and ensure a healthier environment for ourselves and the future generations to come. Currently, information regarding sustainable communities and cities are decentralized and intimidating. When individuals learn more about the issue, they may feel like the problem is too big for individual efforts to have an impact. This project aims to make the overall goal of sustainable communities and cities  appear less intimidating by providing centralized information and  personalized action items. Users are able to sort for action items based on their budget, time, and knowledge levels. Finally, to stay motivated and encourage others, this project includes a social platform with a point based system so users can share and track their progress. The growth of this project is expected to be the result of adding and inviting friends to the platform. This project overall aims to support efforts toward United Nations Sustainable Development Goal 11, Sustainable Communities and Cities. 
 
 ### Competitor Analysis 
-I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/))for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
+I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
 
 #### Institute for Sustainable Communities at [sustain.org](https://sustain.org)
-> Site background: The goal of ISC is to provide resources to people within the community that is being transformed; rather than act as a third party, the ISC allows local community members to take action. The ISC provides training, solutions, and resources to leaders of change. Their site contains more information about their work, as well as blogs and podcasts about sustainable communities.
-> 
 > Overall evaluation: The site is information and visually pleasing with many types of media to keep the user engaged. However, there seems to be some inconsistencies in the menu bar that can make the site a bit hard to navigate. Additionally, clicking the donate button redirected me to another site without warning. These oversights can make the user experience very unpleasant. The issues mostly pertain to error prevention or resolution. The average user will probably not have an issue with this site, but it may be frustrating for users on the extreme ends (most basic and most experienced).
 
 #### UN Environmental Programme at [unep.org](https://unep.org)
-> Site Background: The United Nations Environment Programme (UNEP) sets the global environmental agenda and promotes the implementation of sustainable practices. UNEP works with many different countries, aiding in environmental agreements as well as research.
-
 > Overall Evaluation: The UNEP has many other objectives, so it was somewhat difficult finding what I needed since I was researching only SDG 11 There is so much information on the site, that it is crowded. Navigation is tough, and the separate navigation bars make the website even more unclear. There is little support for errors, which is frustrating on a large site like this one. However, the search functions helped tremendously. Furthermore, the site does seem intuitive and visually pleasing.
 
 The details of the heuristic evaluation can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/Heuristic%20Evaluation.md). 
@@ -24,9 +20,10 @@ Next, I conducted a Usability Test (UT) for sustain.org in order determine the e
 - Visibilility of System Status : The navigation bar has drop down menus that do not stay pinned; they only appear when the user hovers over the parent button. Evaluate whether or not the drop down menu affects the user's navigation of the site.
 - User Control and Freedom: The "Donate" button redirects the user to a new link in a new tab. Obtain insight on how the user reacts to this new tab opening without warning.
 - Error Prevention: The search feature does not have any error prevention for spelling. Identify how the lack of spellcheck impacts the average user.
+
 The participant had an overall good impression about the site, but did express some frustrations about the heuristic violations above. The UT was very helpful during my design process as the participant’s thoughts while completing the tasks, the SUS questionnaire, and PRC provided insight on how a different user may experience issues that I didn’t personally face.
 
-<iframe src="https://drive.google.com/file/d/1LqcTV2cuoPgD-3xbtQ9iSvX-vHCjsjd7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1t6ivOTwckDz1FymppePUn5ENqHYYpP0c/preview" width="640" height="480" allow="autoplay"></iframe>
 
 The thorough analysis of the usability test of sustain.org can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment02/Pilot%20UT.md).
 
@@ -75,7 +72,7 @@ Below are the persona profiles and journey maps.
   <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="480px"/>
 </p>
 
-More information about the Persona and Scenarios scan be found[here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
+More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
 
 
 ### Wireframes and Low-Fidelty Prototype Wireflow 
