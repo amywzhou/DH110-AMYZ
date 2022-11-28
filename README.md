@@ -64,15 +64,15 @@ Below are the persona profiles and journey maps.
 **Personas** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="400px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="500px"/>
 </p>
 
 **Journey Maps** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="400px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="500px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found[here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
@@ -121,7 +121,7 @@ The UI design process is thoroughly documented [here]( https://github.com/amywzh
 
 With the low-fidelity prototype and interface design completed, I created a high-fidelity prototype on Figma. The high-fidelity prototype is able to accomplish the two set of tasks defined in UX story telling: social platform tasks and self enrichment tasks. The high-fidelity prototype allowed me to see potential flaws in my design; being able to visualize and use the product through interactions helped me make some positive changes to the design.  Next, I  conducted a cognitive walkthrough with two peers and made changes based to the prototype based on the feedback. 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6f0U03cVQLa9Wl2gqnvHvO%2FHigh-Fidelity-Prototype%3Fpage-id%3D0%253A1%26node-id%3D37%253A903%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6f0U03cVQLa9Wl2gqnvHvO%2FHigh-Fidelity-Prototype%3Fpage-id%3D0%253A1%26node-id%3D2%253A2%26viewport%3D148%252C331%252C0.1%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 The High-Fidelity Prototyping process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment07).
 
