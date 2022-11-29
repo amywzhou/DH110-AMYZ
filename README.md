@@ -8,6 +8,12 @@ As the human population grows, sustainable communities and cities are becoming i
 ### Competitor Analysis 
 I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
 
+
+<p align="center">
+  <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain.png" alt="Sustain" width="400px"/>
+  <img src="https://github.com/amywzhou/DH110-AMYZ/raw/main/assignment01/unep.png" alt="UNEP" width="400px"/>
+</p>
+
 #### Institute for Sustainable Communities at [sustain.org](https://sustain.org)
 > Overall evaluation: The site is information and visually pleasing with many types of media to keep the user engaged. However, there seems to be some inconsistencies in the menu bar that can make the site a bit hard to navigate. Additionally, clicking the donate button redirected me to another site without warning. These oversights can make the user experience very unpleasant. The issues mostly pertain to error prevention or resolution. The average user will probably not have an issue with this site, but it may be frustrating for users on the extreme ends (most basic and most experienced).
 
@@ -23,8 +29,6 @@ Next, I conducted a Usability Test (UT) for sustain.org in order determine the e
 
 The participant had an overall good impression about the site, but did express some frustrations about the heuristic violations above. The UT was very helpful during my design process as the participant’s thoughts while completing the tasks, the SUS questionnaire, and PRC provided insight on how a different user may experience issues that I didn’t personally face.
 
-<iframe src="https://drive.google.com/file/d/1t6ivOTwckDz1FymppePUn5ENqHYYpP0c/preview" width="640" height="480" allow="autoplay"></iframe>
-
 The thorough analysis of the usability test of sustain.org can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment02/Pilot%20UT.md).
 
 ### Research
@@ -39,8 +43,6 @@ During my user research, I conducted passive participant observation and a conte
 * Social media can be a powerful mobilizing tool
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
-
-<iframe src="https://drive.google.com/file/d/1KwlZX3MrsQ6EHAR84gy-8lkaaso8L2rQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Learn more about the Contextual Inquiry and Observation [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment03).
 
