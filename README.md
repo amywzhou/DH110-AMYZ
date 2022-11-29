@@ -65,8 +65,8 @@ Below are the persona profiles and journey maps.
 **Journey Maps** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="500px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="650px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="650px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
