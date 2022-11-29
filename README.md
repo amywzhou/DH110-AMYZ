@@ -33,10 +33,10 @@ After completing competitor analysis, I conducted my own user research in order 
 
 During my user research, I conducted passive participant observation and a contextual inquiry. The results were very insightful and added another dimension to my original project design. The passive participant observation notes can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing). The contextual inquiry followed [this script](https://docs.google.com/document/d/1j-eUm0TE6vCstzVb4H-1J0t0NqqY73i0-2IMFmeJ5k0/edit?usp=sharing), and the transcript can be found [here](https://docs.google.com/document/d/1ZyVlE5pufr2IK4RmrEJHKaIb74-s5oDHOew_EMHQeKI/edit?usp=sharing). The findings included:
 
-1️⃣ Online sources are valuable and perhaps preferred for researching sustainability, but the information is not centralized.
-2️⃣ Not every sustainable action is applicable to everyone, but there is at least one task that an individual can complete
-3️⃣ Peer judgement has a large impact on the extent to which sustainable practices are adopted
-4️⃣ Social media can be a powerful mobilizing tool
+* Online sources are valuable and perhaps preferred for researching sustainability, but the information is not centralized.
+* Not every sustainable action is applicable to everyone, but there is at least one task that an individual can complete
+* Peer judgement has a large impact on the extent to which sustainable practices are adopted
+* Social media can be a powerful mobilizing tool
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
 
