@@ -34,11 +34,8 @@ After completing competitor analysis, I conducted my own user research in order 
 During my user research, I conducted passive participant observation and a contextual inquiry. The results were very insightful and added another dimension to my original project design. The passive participant observation notes can be found [here](https://drive.google.com/file/d/1j7kcpZ64kAo64tX1-DhE6-cdMDsRZ2tu/view?usp=sharing). The contextual inquiry followed [this script](https://docs.google.com/document/d/1j-eUm0TE6vCstzVb4H-1J0t0NqqY73i0-2IMFmeJ5k0/edit?usp=sharing), and the transcript can be found [here](https://docs.google.com/document/d/1ZyVlE5pufr2IK4RmrEJHKaIb74-s5oDHOew_EMHQeKI/edit?usp=sharing). The findings included:
 
 1️⃣ Online sources are valuable and perhaps preferred for researching sustainability, but the information is not centralized.
-
 2️⃣ Not every sustainable action is applicable to everyone, but there is at least one task that an individual can complete
-
 3️⃣ Peer judgement has a large impact on the extent to which sustainable practices are adopted
-
 4️⃣ Social media can be a powerful mobilizing tool
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
@@ -61,15 +58,15 @@ Below are the persona profiles and journey maps.
 **Personas** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="480px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="480px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="500px"/>
 </p>
 
 **Journey Maps** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="480px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="480px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="500px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
