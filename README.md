@@ -23,9 +23,9 @@ The details of the heuristic evaluation can be found [here](https://github.com/a
 
 Next, I conducted a Usability Test (UT) for sustain.org in order determine the effectiveness, efficiency, and satisfaction of using the site. I followed [this script](https://forms.gle/S871CKGJLJNPgweW8) to ensure smooth adminstration of the test.  The tasks chosen for the the usability test were specifically catered to gain insight on the three areas of concern I found during my heuristic evaluation: 
 
-- **Visibilility of System Status 
-- **User Control and Freedom
-- **Error Prevention
+- **Visibilility of System Status** 
+- **User Control and Freedom**
+- **Error Prevention**
 
 The participant had an overall good impression about the site, but did express some frustrations about the heuristic violations above. The UT was very helpful during my design process as the participant’s thoughts while completing the tasks, the SUS questionnaire, and PRC provided insight on how a different user may experience issues that I didn’t personally face.
 
