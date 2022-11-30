@@ -44,7 +44,7 @@ During my user research, I conducted passive participant observation and a conte
 
 My original product only recognized decentralized information and lack of personalized tasks as issues to address. However, I learned from the participant that there is a lack of social aspect when it comes to sustainable communities and cities. After my user research, I adjusted my product to include social media feeds and a point system to motivate peers and track progress.
 
-Learn more about the Contextual Inquiry and Observation [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment03).
+Learn more about the Contextual Inquiry and Observation [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment03/ContextualInquiry.md).
 
 ### UX Storytelling
 
@@ -107,7 +107,7 @@ With the low-fidelity prototype and interface design completed, I created a high
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6f0U03cVQLa9Wl2gqnvHvO%2FHigh-Fidelity-Prototype%3Fpage-id%3D0%253A1%26node-id%3D2%253A2%26viewport%3D148%252C331%252C0.1%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
-The High-Fidelity Prototyping process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment07).
+The High-Fidelity Prototyping process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment07/highfidelityprototype.md).
 
 ### Evaluation and Revision History
 **Low Fidelity Protype User Walkthrough**
