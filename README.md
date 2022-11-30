@@ -8,7 +8,6 @@ As the human population grows, sustainable communities and cities are becoming i
 ### Competitor Analysis 
 I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
 
-
 <p align="center">
   <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain.png" alt="Sustain" width="400px"/>
   <img src="https://github.com/amywzhou/DH110-AMYZ/raw/main/assignment01/unep.png" alt="UNEP" width="400px"/>
@@ -22,10 +21,11 @@ I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heurist
 
 The details of the heuristic evaluation can be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/Heuristic%20Evaluation.md). 
 
-Next, I conducted a Usability Test (UT) for sustain.org in order determine the effectiveness, efficiency, and satisfaction of using the site. I followed [this script](https://forms.gle/S871CKGJLJNPgweW8) to ensure smooth adminstration of the test.  The tasks chosen for the the usability test were specifically catered to gain insight on the three areas of concern I found during my heuristic evaluation:
-- Visibilility of System Status : The navigation bar has drop down menus that do not stay pinned; they only appear when the user hovers over the parent button. Evaluate whether or not the drop down menu affects the user's navigation of the site.
-- User Control and Freedom: The "Donate" button redirects the user to a new link in a new tab. Obtain insight on how the user reacts to this new tab opening without warning.
-- Error Prevention: The search feature does not have any error prevention for spelling. Identify how the lack of spellcheck impacts the average user.
+Next, I conducted a Usability Test (UT) for sustain.org in order determine the effectiveness, efficiency, and satisfaction of using the site. I followed [this script](https://forms.gle/S871CKGJLJNPgweW8) to ensure smooth adminstration of the test.  The tasks chosen for the the usability test were specifically catered to gain insight on the three areas of concern I found during my heuristic evaluation: 
+
+- **Visibilility of System Status 
+- **User Control and Freedom
+- **Error Prevention
 
 The participant had an overall good impression about the site, but did express some frustrations about the heuristic violations above. The UT was very helpful during my design process as the participant’s thoughts while completing the tasks, the SUS questionnaire, and PRC provided insight on how a different user may experience issues that I didn’t personally face.
 
@@ -50,25 +50,25 @@ Learn more about the Contextual Inquiry and Observation [here](https://github.co
 
 To further understand user perspectives and how to address their needs, I created two personas with diverse traits to mitigate personal bias while designing. The personas aid decision-making in terms of product focus, functionality, and design trade-offs. I created two tasks based off the personas and their needs; one task is targeted toward the social platform features while the other task is targeted toward the personal enrichment and involvement features. 
 
-* Task 1: Social Platform Feature. This task has several mini-tasks that entail having a user use the "Community" and "Profile" features of the design. The user should perform the following tasks: (1) add friend, (2) post content, (3) invite new users. Features such as the "sustainability score" will be inherently shown during this task. See Stephany's journey below.
-* Task 2: Information and Action Criteria Feature. This task has several mini-tasks that entail having a user use the "Information" and "Take Action" aspects of the design. The user should perform the following tasks: (1) read about the desired social issue, (2) generate action items by user input via criteria, and (3) view the saved tasks and completed tasks on the "Profile" page. See James' journey below.
+* **Task 1: Social Platform Feature**. This task has several mini-tasks that entail having a user use the "Community" and "Profile" features of the design. The user should perform the following tasks: (1) add friend, (2) post content, (3) invite new users. Features such as the "sustainability score" will be inherently shown during this task. See Stephany's journey below.
+* **Task 2: Information and Action Criteria Feature**. This task has several mini-tasks that entail having a user use the "Information" and "Take Action" aspects of the design. The user should perform the following tasks: (1) read about the desired social issue, (2) generate action items by user input via criteria, and (3) view the saved tasks and completed tasks on the "Profile" page. See James' journey below.
 
 Below are the persona profiles and journey maps. 
-- Persona 1: Stephany Jones, Extroverted HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
-- Persona 2: James Lee, Personal Chef and Father in Portland, Oregon
+- **Persona 1:** Stephany Jones, Extroverted HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
+- **Persona 2:** James Lee, Personal Chef and Father in Portland, Oregon
 
 **Personas** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="500px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="450px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="450px"/>
 </p>
 
 **Journey Maps** 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="650px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="650px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="400px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
@@ -126,5 +126,10 @@ Product
 Product design is an iterative process that involves several revisions before the product is ready. The following is a summary of the evaluations and revisions made throughout the design process. 
 
 ### Pitch Video
+This is the first UI/UX project that I have completed.  What surprised me most was the iterative process—I didn’t expect to have make so many revisions because to me, my designs always made sense.  That is why I found usability tests, contextual inquiries, impression tests, and cognitive walkthroughs so interesting—learning about other people’s perspectives and needs was very insightful and a reminder that no two people think alike! For example, I was very surprised when my participant during the contextual inquiry mentioned a user need that I never considered: a social platform. As an introverted person, a social platform is not a need that I have when exploring sustainable goals; when my participant mentioned a lack of social aspect, I was reminded that I had to consider the needs of a variety of personalities and experience levels. Thus, one of my main takeaways from this project is to always get a second (or third or fourth or fifth) opinion!  Another takeaway is that every decision during interface design matters—the size, shape, color, and font all had profound impacts on the “feel” of the product. I never knew how much consideration went into each graphical interface element! Finally, the biggest challenge I faced during my user research and product design is finding willing participants without the incentive of compensation. In a professional setting, I hope it will be easier to recruit participants for usability tests, contextual inquiries, impression tests, and cognitive walkthroughs.
+
+There are several things I would do differently during my next project. First, I would conduct more usability tests; due to lack of time, I was not able to conduct usability tests on my high fidelity prototype, which I know would be extremely valuable considering I learned so much during my cognitive walkthroughs. Secondly, I would explore more options when designing the user interface. There are so many fonts and colors to explore, and somewhere in there is the perfect combination for the tone of the product. I also felt limited by my Figma knowledge on this project, so I hope my next project can have more advanced features and prototyping interactions. Finally, if the budget of my project allowed, I would conduct another contextual inquiry to investigate if there are any more unmet needs that I did not consider. If so, I would expand the capabilities of the project to make sure that additional need is met. 
+
+Overall, I would say my first user research and design project went well. I gained a lot of Figma and documenting skills, although I still have a lot of progress to make on Figma (I spent over three hours making a dropdown menu). In the end, I think my product is usable and addresses the needs of the target population. 
 
 ### Conclusion
