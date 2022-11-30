@@ -75,6 +75,7 @@ More information about the Persona and Scenarios scan be found [here](https://gi
 With more insight on user perspectives and needs, I next designed a low-fidelity prototype. The low fidelity prototype serves as an early rendition of the project to see the feasibility of anticipated design. A wire flow test was conducted to provide insight on the usability of the features for the two tasks defined in UX storytelling. It was also very helpful to learn about the flow of actions that the tested followed. Based on the tester’s reactions and comments, I created changes to the original low-fidelity prototype to make the flow and features easier to understand. 
 
 Original Flow: [here](https://github.com/amywzhou/DH110-AMYZ/files/9896955/Wire.flow.pdf)
+
 Revised Flow:
 ![Updated wire flow final_Page_1](https://user-images.githubusercontent.com/92239472/199412192-1eed98ff-cc21-4fe5-a8c9-ab7c9e4e2ca4.png)
 ![Updated wire flow final_Page_2](https://user-images.githubusercontent.com/92239472/199412205-0e11f729-f6a0-48de-a6c5-848764f15b4e.png)
@@ -86,11 +87,8 @@ Find thorough documentation of the low-fidelity prototype [here](https://github.
 Following the low fidelity prototype, I designed the user interface (UI) by testing several variations of shapes, colors, and fonts. The UI is an important element of the product that can keep users engaged and reduce frustrations. I made my decisions based on my goal to make the product feel friendly, but still serious. 
 
 **Spacing Considerations:** 10px grid for alignment, 20px margins to prevent overcrowding  
-
 **Typographic Variations:**  Josefin Sans, not too rounded and no serifs. Friendly but serious.
-
 **Shape Variations:** Rounded (60px), causal and recognizable.
-
 **Color Scheme:** Inspired by the original site, modified to meet accessibility requirements. 
 
 After finalizing my user interface, I conducted two impression tests to obtain insight about the graphical design. The testers both commented on the bright red/orange of the interface. The testers liked the bright pop of color and said it particularly suited the “take action” atmosphere of the action items page. 
@@ -113,6 +111,7 @@ The High-Fidelity Prototyping process is thoroughly documented [here](https://gi
 
 ### Evaluation and Revision History
 **Low Fidelity Protype User Walkthrough**
+
 [Old Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9896955/Wire.flow.pdf) vs. [Updated Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9916801/Updated.wire.flow.final.pdf)
 
 | Tester Reaction | Prototype Edit |
