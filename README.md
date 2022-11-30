@@ -9,7 +9,7 @@ As the human population grows, sustainable communities and cities are becoming i
 I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
 
 <p align="center">
-  <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain.png" alt="Sustain" width="400px"/>
+  <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain.png" alt="Sustain img" width="400px"/>
   <img src="https://github.com/amywzhou/DH110-AMYZ/raw/main/assignment01/unep.png" alt="UNEP" width="400px"/>
 </p>
 
@@ -54,32 +54,25 @@ To further understand user perspectives and how to address their needs, I create
 * **Task 2: Information and Action Criteria Feature**. This task has several mini-tasks that entail having a user use the "Information" and "Take Action" aspects of the design. The user should perform the following tasks: (1) read about the desired social issue, (2) generate action items by user input via criteria, and (3) view the saved tasks and completed tasks on the "Profile" page. See James' journey below.
 
 Below are the persona profiles and journey maps. 
-- **Persona 1:** Stephany Jones, Extroverted HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
-- **Persona 2:** James Lee, Personal Chef and Father in Portland, Oregon
 
-**Personas** 
-
+ **Persona 1:** Stephany Jones, Extroverted HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="450px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="450px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="350px"/>
+  
 </p>
 
-**Journey Maps** 
+**Persona 2:** James Lee, Personal Chef and Father in Portland, Oregon
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="400px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="400px"/>
+ <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="350px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
 
-
 ### Wireframes and Low-Fidelty Prototype Wireflow 
 With more insight on user perspectives and needs, I next designed a low-fidelity prototype. The low fidelity prototype serves as an early rendition of the project to see the feasibility of anticipated design. A wire flow test was conducted to provide insight on the usability of the features for the two tasks defined in UX storytelling. It was also very helpful to learn about the flow of actions that the tested followed. Based on the tester’s reactions and comments, I created changes to the original low-fidelity prototype to make the flow and features easier to understand. 
-
-Original Flow: 
-![Wire flow_Page_1](https://user-images.githubusercontent.com/92239472/198904275-2bf2ed0e-39c7-4375-87e0-cb65bc5018ed.png)
-![Wire flow_Page_2](https://user-images.githubusercontent.com/92239472/198904278-29bf3b29-b2ad-47ff-b136-e4c02cca8396.png)
 
 Revised Flow:
 ![Updated wire flow final_Page_1](https://user-images.githubusercontent.com/92239472/199412192-1eed98ff-cc21-4fe5-a8c9-ab7c9e4e2ca4.png)
