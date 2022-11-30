@@ -85,7 +85,7 @@ Find thorough documentation of the low-fidelity prototype [here](https://github.
 
 Following the low fidelity prototype, I designed the user interface (UI) by testing several variations of shapes, colors, and fonts. The UI is an important element of the product that can keep users engaged and reduce frustrations. I made my decisions based on my goal to make the product feel friendly, but still serious. 
 
-**Spacing Considerations:*** 10px grid for alignment, 20px margins to prevent overcrowding  
+**Spacing Considerations:** 10px grid for alignment, 20px margins to prevent overcrowding  
 
 **Typographic Variations:**  Josefin Sans, not too rounded and no serifs. Friendly but serious.
 
@@ -117,7 +117,7 @@ The High-Fidelity Prototyping process is thoroughly documented [here](https://gi
 
 | Tester Reaction | Prototype Edit |
 |---|---|
-| Tester is frustrated that creating a post is not veryaccessible for intuitive.  | Add a “Create Post” button to the community page and rename the “Add Activity” button on the profile page to “Add Post” for consistency.| 
+| Tester is frustrated that creating a post is not very accessible or intuitive.  | Add a “Create Post” button to the community page and rename the “Add Activity” button on the profile page to “Add Post” for consistency.| 
 | Tester is uncertain what will happen after adding a friend. | Design the “add” and “invite” buttons to provide feedback on whether or not the action is successful.| 
 | Tester cannot find detail page of a topic on the information page. | Change the “>” button to be more clear; the new button says “Learn more” and is in button outline. |
 | Tester did not attempt to change criteria in filtering feature. | Enlarge the filtering features and provide explicit instructions on how to use them.| 
