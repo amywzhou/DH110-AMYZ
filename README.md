@@ -125,7 +125,7 @@ The High-Fidelity Prototyping process is thoroughly documented [here](https://gi
 
 **High Fidelity Prototype Cognitive Walkthrough**
 
-| Problem | Change |
+| Tester Comment | Prototype Edit |
 |---|---|
 |Users may get confused on how to navigate back to the landing page since it is not very obvious that the landing page is the information page; lack of clear option to navigate back to landing page. | Change the book logo for information to the widely-recognized home logo so it is clear that the information page is the landing page.|
 |Dropdown responsiveness is varied. When the dropdown doesn't work, the user is unsure if progress is being made.|Troubleshoot the dropdown menu so it works as intended.|
