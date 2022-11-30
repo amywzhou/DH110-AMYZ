@@ -9,8 +9,8 @@ As the human population grows, sustainable communities and cities are becoming i
 I conducted a Heuristic Evaluation using [Jacob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for the Institute for Sustainable Communities and United Nations Environmental Programme. Both of the sites provide information about sustainable communities and cities and potential action items that users can complete to contribute to the cause. The purpose of the Heuristic Evaluation was to analyze potential usability issues within the sites in order to avoid the same issues in my project design. The following takeaways were found for each site: 
 
 <p align="center">
-  <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain2.png?raw=true" alt="Sustain img" width="325px"/>
-  <img src="https://github.com/amywzhou/DH110-AMYZ/raw/main/assignment01/unep.png" alt="UNEP" width="325px"/>
+  <img src="https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment01/sustain2.png?raw=true" alt="Sustain img" width="300px"/>
+  <img src="https://github.com/amywzhou/DH110-AMYZ/raw/main/assignment01/unep.png" alt="UNEP" width="300px"/>
 </p>
 
 #### Institute for Sustainable Communities at [sustain.org](https://sustain.org)
