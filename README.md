@@ -114,6 +114,7 @@ The High-Fidelity Prototyping process is thoroughly documented [here](https://gi
 ### Evaluation and Revision History
 **Low Fidelity Protype User Walkthrough**
 [Old Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9896955/Wire.flow.pdf) vs. [Updated Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9916801/Updated.wire.flow.final.pdf)
+
 | Tester Reaction | Prototype Edit |
 |---|---|
 | Tester is frustrated that creating a post is not veryaccessible for intuitive.  | Add a “Create Post” button to the community page and rename the “Add Activity” button on the profile page to “Add Post” for consistency.| 
@@ -123,6 +124,7 @@ The High-Fidelity Prototyping process is thoroughly documented [here](https://gi
 | Tester complained about lack of back/exit options. | Change the “<“ arrow to the more commonly seen “<— “ symbol for back/exit options. |
 
 **High Fidelity Prototype Cognitive Walkthrough**
+
 | Problem | Change |
 |---|---|
 |Users may get confused on how to navigate back to the landing page since it is not very obvious that the landing page is the information page; lack of clear option to navigate back to landing page. | Change the book logo for information to the widely-recognized home logo so it is clear that the information page is the landing page.|
