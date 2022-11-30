@@ -86,10 +86,10 @@ Find thorough documentation of the low-fidelity prototype [here](https://github.
 
 Following the low fidelity prototype, I designed the user interface (UI) by testing several variations of shapes, colors, and fonts. The UI is an important element of the product that can keep users engaged and reduce frustrations. I made my decisions based on my goal to make the product feel friendly, but still serious. 
 
-**Spacing Considerations:** 10px grid for alignment, 20px margins to prevent overcrowding  
-**Typographic Variations:**  Josefin Sans, not too rounded and no serifs. Friendly but serious.
-**Shape Variations:** Rounded (60px), causal and recognizable.
-**Color Scheme:** Inspired by the original site, modified to meet accessibility requirements. 
+- **Spacing Considerations:** 10px grid for alignment, 20px margins to prevent overcrowding  
+- **Typographic Variations:**  Josefin Sans, not too rounded and no serifs. Friendly but serious.
+- **Shape Variations:** Rounded (60px), causal and recognizable.
+- **Color Scheme:** Inspired by the original site, modified to meet accessibility requirements. 
 
 After finalizing my user interface, I conducted two impression tests to obtain insight about the graphical design. The testers both commented on the bright red/orange of the interface. The testers liked the bright pop of color and said it particularly suited the “take action” atmosphere of the action items page. 
 
