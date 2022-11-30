@@ -57,16 +57,16 @@ Below are the persona profiles and journey maps.
 
  **Persona 1:** Stephany Jones, Extroverted HR Specialist and Sustainability Enthusiast in Atlanta, Georgia.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="350px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197933113-d26cd2fc-2e72-49b3-b2a3-9eb55061d29f.png" alt="Stephany User Persona" width="300px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910758-2f3a17f1-83b6-46f4-9a96-b85bc15b601e.png" alt="Stephany User Persona" width="300px"/>
   
 </p>
 
 **Persona 2:** James Lee, Personal Chef and Father in Portland, Oregon
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="350px"/>
-  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="350px"/>
+ <img src="https://user-images.githubusercontent.com/92239472/197910417-73239249-8971-416c-ac50-11f352c95217.png" alt="James User Persona" width="250px"/>
+  <img src="https://user-images.githubusercontent.com/92239472/197910876-5d529f8e-2aca-4ffa-99fc-4a42d6a82c1b.png" alt="James  User Persona" width="250px"/>
 </p>
 
 More information about the Persona and Scenarios scan be found [here](https://github.com/amywzhou/DH110-AMYZ/blob/main/assignment04/PersonaScenario.md)
@@ -74,6 +74,7 @@ More information about the Persona and Scenarios scan be found [here](https://gi
 ### Wireframes and Low-Fidelty Prototype Wireflow 
 With more insight on user perspectives and needs, I next designed a low-fidelity prototype. The low fidelity prototype serves as an early rendition of the project to see the feasibility of anticipated design. A wire flow test was conducted to provide insight on the usability of the features for the two tasks defined in UX storytelling. It was also very helpful to learn about the flow of actions that the tested followed. Based on the tester’s reactions and comments, I created changes to the original low-fidelity prototype to make the flow and features easier to understand. 
 
+Original Flow: [here](https://github.com/amywzhou/DH110-AMYZ/files/9896955/Wire.flow.pdf)
 Revised Flow:
 ![Updated wire flow final_Page_1](https://user-images.githubusercontent.com/92239472/199412192-1eed98ff-cc21-4fe5-a8c9-ab7c9e4e2ca4.png)
 ![Updated wire flow final_Page_2](https://user-images.githubusercontent.com/92239472/199412205-0e11f729-f6a0-48de-a6c5-848764f15b4e.png)
@@ -84,19 +85,15 @@ Find thorough documentation of the low-fidelity prototype [here](https://github.
 
 Following the low fidelity prototype, I designed the user interface (UI) by testing several variations of shapes, colors, and fonts. The UI is an important element of the product that can keep users engaged and reduce frustrations. I made my decisions based on my goal to make the product feel friendly, but still serious. 
 
-Spacing Considerations: 10px grid, 20px margins
-> To make the app appear more professional, I aligned my elements to the 10px grid. I also utilized 20px margins to make sure the page wasn’t overcrowded. Each screen used varying numbers of rows and columns. 
+**Spacing Considerations:*** 10px grid for alignment, 20px margins to prevent overcrowding  
 
-Typographic Variations: Jua, Josefin Sans, and Volkhov. 
-> I chose Josefin Sans because it Jua was too casual as it was very rounded and Volkhov was too serious/intimidating as it had serifs. Josefin Sans was a good in-between that was friendly and serious.
+**Typographic Variations:**  Josefin Sans, not too rounded and no serifs. Friendly but serious.
 
-Shape Variations: Rounded (60px), Rectangle, diagonally opposite rounded corners at 45px.
-> I chose rounded buttons because the rectangle option was too aggressive, and the diagonally rounded corners may not be recognized as buttons.
+**Shape Variations:** Rounded (60px), causal and recognizable.
 
-Color Scheme: Inspired by the original site, modified to meet accessibility requirements. 
-> I used Adobe Color to extract the colors used on the original site, but modified the colors to pass the accessibility color contrast test. A darker orange is used than on the original site. 
+**Color Scheme:** Inspired by the original site, modified to meet accessibility requirements. 
 
-After finalizing my user interface, I conducted two impression tests to obtain insight about the graphical design. The testers both commented on the bright red/orange of the interface. I was initially unsure how I felt about the color, but the testers liked the bright pop of color and said it particularly suited the “take action” atmosphere of the action items page. 
+After finalizing my user interface, I conducted two impression tests to obtain insight about the graphical design. The testers both commented on the bright red/orange of the interface. The testers liked the bright pop of color and said it particularly suited the “take action” atmosphere of the action items page. 
 
 Final Design: 
 ![DesignFinal](https://user-images.githubusercontent.com/92239472/200795510-1448fac1-5947-4d69-8d55-6ffe25022c1d.png)
@@ -115,8 +112,23 @@ With the low-fidelity prototype and interface design completed, I created a high
 The High-Fidelity Prototyping process is thoroughly documented [here](https://github.com/amywzhou/DH110-AMYZ/tree/main/assignment07).
 
 ### Evaluation and Revision History
-Product 
-Product design is an iterative process that involves several revisions before the product is ready. The following is a summary of the evaluations and revisions made throughout the design process. 
+**Low Fidelity Protype User Walkthrough**
+[Old Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9896955/Wire.flow.pdf) vs. [Updated Wireflow](https://github.com/amywzhou/DH110-AMYZ/files/9916801/Updated.wire.flow.final.pdf)
+| Tester Reaction | Prototype Edit |
+|---|---|
+| Tester is frustrated that creating a post is not veryaccessible for intuitive.  | Add a “Create Post” button to the community page and rename the “Add Activity” button on the profile page to “Add Post” for consistency.| 
+| Tester is uncertain what will happen after adding a friend. | Design the “add” and “invite” buttons to provide feedback on whether or not the action is successful.| 
+| Tester cannot find detail page of a topic on the information page. | Change the “>” button to be more clear; the new button says “Learn more” and is in button outline. |
+| Tester did not attempt to change criteria in filtering feature. | Enlarge the filtering features and provide explicit instructions on how to use them.| 
+| Tester complained about lack of back/exit options. | Change the “<“ arrow to the more commonly seen “<— “ symbol for back/exit options. |
+
+**High Fidelity Prototype Cognitive Walkthrough**
+| Problem | Change |
+|---|---|
+|Users may get confused on how to navigate back to the landing page since it is not very obvious that the landing page is the information page; lack of clear option to navigate back to landing page. | Change the book logo for information to the widely-recognized home logo so it is clear that the information page is the landing page.|
+|Dropdown responsiveness is varied. When the dropdown doesn't work, the user is unsure if progress is being made.|Troubleshoot the dropdown menu so it works as intended.|
+|Point system purpose is unclear.|Add a small info logo that, when clicked, has a pop-up explaining the point system.|
+|Clicking images should route somewhere on the information/landing page.|Add intereaction where clicking a photo will route to the respective topic detail page.|
 
 ### Pitch Video
 
